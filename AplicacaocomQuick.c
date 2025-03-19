@@ -90,7 +90,7 @@ void exibir(){
     }
 }
 int main(){
-    setlocale(LC_ALL, "Portuguese");
+    setlocale(LC_ALL, "pt_BR.UTF-8"); 
     int opcion = 0;
     int opc = 0;
     while(1){
