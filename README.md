@@ -12,10 +12,6 @@ A aplicação de Agenda Telefônica terá as seguintes funcionalidades:
 | **Exibir contatos**        | Exibe todos os contatos cadastrados, organizados alfabeticamente.           |
 | **Atualizar contato**      | Permite modificar os dados de um contato já existente.                       |
 | **Excluir contato**        | Remove um contato da agenda com base no índice informado.                    |
-| **Ordenação dos contatos** | No primeiro código, usa **Bubble Sort (O(n²))**; no segundo, usa **Quick Sort (O(n log n))** para organizar a lista antes da exibição. |
-| **Uso de memória dinâmica**| Os contatos são armazenados dinamicamente usando `malloc`.                   |
-| **Liberação de memória**   | `free` é utilizado dentro do loop principal, mas pode gerar problemas ao liberar memória repetidamente. |
-| **Interface via terminal** | O programa é executado no terminal e interage com o usuário por meio de menus. |
 | **Encerramento do programa** | O sistema pode ser finalizado pelo usuário ao selecionar a opção "Sair".    |
 
 ## 2. Como o sistema funciona?
