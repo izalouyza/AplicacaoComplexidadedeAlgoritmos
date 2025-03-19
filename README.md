@@ -16,7 +16,7 @@ AplicacaoComplexidadedeAlgoritmos/
 - **AplicacaocomBubble**: arquivo que contém o exemplo prático utilizando Bubble Sort.
 - **AplicacaocomQuick**: arquivo que contém o exemplo prático utilizando Quick Sort.
 
-## 3. Como compilar e executar o sistema
+## 2. Como compilar e executar o sistema
 
 Para compilar e executar o sistema, siga os passos abaixo:
 
@@ -52,7 +52,7 @@ gcc -o agendaquick AplicacaocomQuick.c
 .\agendaquick
 ```
 
-### 4. Participantes
+### 3. Participantes
 
 🔹 **Izadora Louyza Silva Figueiredo**  
 🔹 **Lívian Maria Lucena Gomes Pinheiro**  
