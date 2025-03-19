@@ -10,7 +10,7 @@ AplicacaoComplexidadedeAlgoritmos/
 ├── AplicacaocomBubble.c      
 ├── AplicacaocomQuick.c       
 │
-├── README.md                               
+└── README.md                             
                 
 ```
 - **AplicacaocomBubble**: arquivo que contém o exemplo prático utilizando Bubble Sort.
