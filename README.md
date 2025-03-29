@@ -74,7 +74,7 @@ Para compilar e executar o sistema, siga os passos abaixo:
 2. Clone o repositório do projeto:
 
 ```
-git clone https://github.com/whorshe/AplicacaoComplexidadedeAlgoritmos
+git clone https://github.com/liyuhi/AplicacaoComplexidadedeAlgoritmos
 ```
 
 3. Acesse a pasta do repositório:
