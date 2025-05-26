@@ -1,4 +1,4 @@
-# Aplicação prática de Complexidade de Algoritmos
+# Aplicação Prática de Complexidade de Algoritmos
 
 Esse repositório refere-se ao trabalho da segunda unidade da disciplina de Estrutura de Dados I. O sistema é destinado a analisar o tempo de resposta de execução de dois tipos de algoritmos de Busca e Ordenação: Bubble Sort e Quick Sort, na implementação de uma Agenda Telefônica. 
 
