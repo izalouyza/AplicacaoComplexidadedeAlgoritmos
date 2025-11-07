@@ -2,8 +2,10 @@
 
 Esse repositório refere-se ao trabalho da segunda unidade da disciplina de Estrutura de Dados I. O sistema é destinado a analisar o tempo de resposta de execução de dois tipos de algoritmos de Busca e Ordenação: Bubble Sort e Quick Sort, na implementação de uma Agenda Telefônica. 
 
-![Linguagem](https://img.shields.io/badge/linguagem-C-blue)
+![Linguagem](https://img.shields.io/badge/Linguagem-C-blue)
+![Ambiente](https://img.shields.io/badge/Ambientes-VSCode_&_Canva-blue)
 ![Último commit](https://img.shields.io/github/last-commit/izalouyza/AplicacaoComplexidadedeAlgoritmos)
+
 ---
 ## 👨‍👧‍👧 Autores
 
