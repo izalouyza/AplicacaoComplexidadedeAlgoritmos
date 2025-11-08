@@ -51,6 +51,7 @@ O usuário terá acesso a uma interface interativa onde poderá visualizar as fu
 
 ```
 AplicacaoComplexidadedeAlgoritmos/
+src/codigos
 │
 ├── AplicacaocomBubble.c      
 ├── AplicacaocomQuick.c       
@@ -98,7 +99,7 @@ git clone https://github.com/izalouyza/AplicacaoComplexidadedeAlgoritmos
 3. Acesse a pasta do repositório:
    
 ```
-cd AplicacaoComplexidadedeAlgoritmos
+cd AplicacaoComplexidadedeAlgoritmos/src/codigos
 ```
 
 4. Compile os dois programas para testar: 
