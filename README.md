@@ -7,11 +7,11 @@ Esse repositório refere-se ao trabalho da segunda unidade da disciplina de Estr
 ![Último commit](https://img.shields.io/github/last-commit/izalouyza/AplicacaoComplexidadedeAlgoritmos)
 
 ---
-## 👨‍👧‍👧 Autores
+## Autores
 
-👨‍🏫 **Professor:** George Felipe Fernandes Vieira
+**Professor:** George Felipe Fernandes Vieira
 
-👩‍🎓 **Discentes:**  
+**Discentes:**  
 🔹 [Izadora Louyza Silva Figueiredo](https://github.com/izalouyza)  
 🔹 [Lívian Maria Lucena Gomes Pinheiro](https://github.com/livianlucena)  
 🔹 [Maria Vitória Fernandes Rocha](https://github.com/tivitoriarocha)  
